@@ -1,4 +1,9 @@
 # Databricks notebook source
+# DBTITLE 1,Just a Test
+
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC **NOTE**: the following cell _**should**_ fail.
 # MAGIC 
